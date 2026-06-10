@@ -6,7 +6,7 @@ foreach (int number in lstNumber)
 {
     sum += number;
 }
-Console.WriteLine("Tổng các số trong mảng là: " + sum);
+Console.WriteLine("Tổng các số trong danh sách: " + sum);
 
 #endregion
 
